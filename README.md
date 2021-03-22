@@ -1,2 +1,5 @@
 # chopsueyweb
-demo for learniing
+demo for learning
+title
+program
+functiion
